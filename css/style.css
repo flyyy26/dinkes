@@ -982,7 +982,7 @@ body{
         z-index: 999;
     }
     .menu.active{
-        visibility: visible;
+        visibility: hidden;
     }
     .menu_layout{
         transform: translateX(-100%);
